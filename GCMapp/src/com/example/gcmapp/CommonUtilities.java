@@ -7,9 +7,9 @@ import android.content.Intent;
 
 public final class CommonUtilities {
 
-static final String SENDER_ID = "662678731680";
+static final String SENDER_ID = "xxxxxxxxxxxxxx";
 
-static final String SERVER_URL = "http://ec2-184-73-70-92.compute-1.amazonaws.com:8080/gcm-demo";
+static final String SERVER_URL = "http://ec2-xxx-xx-xx-xx.compute-1.amazonaws.com:8080/gcm-demo";
 
 static final String TAG = "GCMPushNotification";
 
