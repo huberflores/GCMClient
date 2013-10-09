@@ -14,7 +14,6 @@ Requirements
 Compilation and Installation
 ----------------------------
 - Download the code
-
 ```xml
 git clone https://github.com/huberflores/GCMClient.git
 ````
