@@ -13,6 +13,11 @@ Requirements
 
 Compilation and Installation
 ----------------------------
+- Download the code
+
+```xml
+git clone https://github.com/huberflores/GCMClient.git
+````
 
 - Import the project into Eclipse
 
@@ -23,7 +28,7 @@ Compilation and Installation
 - Export apk file and install
 
 
-Installing in Android simulator
+Installation in Android simulator
 --------------------------------
 
 Installation in Android simulator requires to establish Google APIs as core libraries before starting the emulator.
