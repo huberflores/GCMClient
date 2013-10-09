@@ -17,9 +17,10 @@ Compilation and Installation
 ```xml
 git clone https://github.com/huberflores/GCMClient.git
 ````
-
 - Import the project into Eclipse
-
+```xml
+File -> Import -> General -> Project into workspace
+````
 - Open the class CommonUtilities.java
 
 - Set a valid SENDER_ID and SERVER_URL
