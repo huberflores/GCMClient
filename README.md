@@ -14,10 +14,12 @@ Requirements
 Compilation and Installation
 ----------------------------
 - Download the code
+
 ```xml
 git clone https://github.com/huberflores/GCMClient.git
 ````
 - Import the project into Eclipse
+
 ```xml
 File -> Import -> General -> Project into workspace
 ````
